@@ -7,6 +7,8 @@
 - 💬 Want to talk with me?
 ![Contact me on Telegram here](t.me/AkumaHunt3r)
 
+### Extra info about me 🧠
+
 ![AkumaHunt3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkumaHunt3r&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkumaHunt3r&layout=compact)
