@@ -4,7 +4,7 @@
 - ⭐ I'm currently working on [This Kernel](https://github.com/AkumaHunt3r/android_kernel_motorola_msm8953)
 
 - 💬 Want to talk with me?
-[<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="16">](t.me/AkumaHunt3r)
+[<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32">](https://t.me/AkumaHunt3r)
 
 ## Extra info about me 🧠
 
