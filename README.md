@@ -1,5 +1,5 @@
 # Hi, i'm AkumaHunt3r 👋
-- Here you can learn more about me 😃
+## Here you can learn more about me 😃
 
 - ⭐ I'm currently working on [This Kernel](https://github.com/AkumaHunt3r/android_kernel_motorola_msm8953)
 
