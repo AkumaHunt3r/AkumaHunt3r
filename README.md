@@ -1,4 +1,4 @@
-# Hi, i'm AkumaHunt3r 👋
+# Hi, i am AkumaHunt3r 👋
 ##  Here you can learn more about me 😃
 
 ## 💻 I know how to code in these languagues:
@@ -9,7 +9,7 @@
 |
 🇺🇸️ - English
 
-## ⚡ I'm currently working on: 
+## ⚙️ I'm currently working on: 
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkumaHunt3r&repo=OptimKernel&theme=tokyonight">](https://github.com/AkumaHunt3r/OptimKernel)
 
 ## 💬 You can talk with me here: 
