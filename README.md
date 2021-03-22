@@ -9,6 +9,9 @@
 |
 🇺🇸️ - English
 
+## Some "things" about me 🙃️
+I have some concentration difficulties and difficulty to remeber things, so some commits can have messages of changes that don't even exist 😐️
+
 ## ⚙️ I'm currently working on: 
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkumaHunt3r&repo=OptimKernel&theme=tokyonight">](https://github.com/AkumaHunt3r/OptimKernel)
 
