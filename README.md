@@ -9,8 +9,9 @@
 |
 🇺🇸️ - English
 
-## Some "things" about me 🙃️
-I have some concentration difficulties and difficulty to remeber things, so some commits can have messages of changes that don't even exist, or that i already done or that i was planning to do and i haven't done (and so on) 😐️
+# 💻 Environment:
+[<img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="46">](https://ubuntu.com)
+[<img src="https://www.vectorlogo.zone/logos/android/android-official.svg" width="46">](https://source.android.com/)
 
 ## ⚙️ I'm currently working on: 
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkumaHunt3r&repo=OptimKernel&theme=tokyonight">](https://github.com/AkumaHunt3r/OptimKernel)
@@ -18,6 +19,6 @@ I have some concentration difficulties and difficulty to remeber things, so some
 ## 💬 You can talk with me here: 
 [<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="46">](https://t.me/AkumaHunt3r)
 
-## My stats 📊️
+## 📊️ My stats
 ![AkumaHunt3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkumaHunt3r&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkumaHunt3r&layout=compact&theme=tokyonight)
