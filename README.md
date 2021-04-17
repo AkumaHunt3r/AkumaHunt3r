@@ -10,13 +10,13 @@
 🇺🇸️ - English
 
 # 💻 Environment:
-[<img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="46">](https://ubuntu.com)
+[<img src="https://www.vectorlogo.zone/logos/elementaryio/elementaryio-icon.svg" width="46">](https://elementary.io/)
 [<img src="https://www.vectorlogo.zone/logos/android/android-official.svg" width="46">](https://source.android.com/)
 
 # 💻 Tools:
 [<img src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg" width="46">](https://atom.io)
 
-## ⚙️ I'm currently working on: 
+## ⚙️ I am currently working on: 
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkumaHunt3r&repo=OptimKernel&theme=tokyonight">](https://github.com/AkumaHunt3r/OptimKernel)
 
 ## 💬 You can talk with me here: 
