@@ -4,7 +4,7 @@
 - Kernel for Android, forked from nift4 and modified for personal usage
 
 ## AnyKernel3
-- Kernel flashing tool for Android, forked from om0sis and modified
+- Kernel flashing tool for Android, forked from osm0sis and modified
 
 ### ⚡ Mainteined repositories
 - OptimKernel 
