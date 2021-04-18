@@ -13,7 +13,7 @@
 [<img src="https://www.vectorlogo.zone/logos/elementaryio/elementaryio-icon.svg" width="46">](https://elementary.io/)
 [<img src="https://www.vectorlogo.zone/logos/android/android-official.svg" width="46">](https://source.android.com/)
 
-# 💻 Tools:
+# 🛠️ Tools:
 [<img src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg" width="46">](https://atom.io)
 
 ## ⚙️ I am currently working on: 
@@ -21,6 +21,9 @@
 
 ## 💬 You can talk with me here: 
 [<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="46">](https://t.me/AkumaHunt3r)
+
+## 📝 Note:
+- Extra info about my repositores can be found ![here](https://github.com/AkumaHunt3r/AkumaHunt3r/blob/about-me/repos_info.md)
 
 ## 📊️ My stats
 ![AkumaHunt3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkumaHunt3r&show_icons=true&theme=tokyonight)
