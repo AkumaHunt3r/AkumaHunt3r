@@ -14,5 +14,5 @@
 - None 😁
 
 ### 🤗 Original repositories links
-- AnyKernel3 original repository can be found ![here](https://github.com/osm0sis/AnyKernel3)
-- OptimKernel original repository can be found ![here](https://github.com/nift4/OptimKernel)
+- AnyKernel3 original repository can be found [here](https://github.com/osm0sis/AnyKernel3)
+- OptimKernel original repository can be found [here](https://github.com/nift4/OptimKernel)
