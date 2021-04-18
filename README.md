@@ -23,7 +23,7 @@
 [<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="46">](https://t.me/AkumaHunt3r)
 
 ## 📝 Note:
-- Extra info about my repositores can be found ![here](https://github.com/AkumaHunt3r/AkumaHunt3r/blob/about-me/repos_info.md)
+- Extra info about my repositores can be found [here](https://github.com/AkumaHunt3r/AkumaHunt3r/blob/about-me/repos_info.md)
 
 ## 📊️ My stats
 ![AkumaHunt3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkumaHunt3r&show_icons=true&theme=tokyonight)
