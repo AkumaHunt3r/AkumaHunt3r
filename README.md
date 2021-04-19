@@ -2,7 +2,7 @@
 ##  Here you can know a few more about me 😃
 
 ## 💻 I know how to code in these languages:
-![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
+[<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="46">](https://www.gnu.org/software/bash/)
 
 ## 🏳️ I can talk in these languages:
 🇧🇷 - Brazillian Portuguese
