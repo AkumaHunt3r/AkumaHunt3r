@@ -1,33 +1,37 @@
-# Hi, i am AkumaHunt3r 👋
-##  Here you can know a few more about me 😃
+# Hi, i am AkumaHunt3r 👋 😁
+## I am a beginner developer who likes to watch animes and listen to music 🌸 🎧
 
-## 💻 I know how to code in these languages:
-[<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="46">](https://www.gnu.org/software/bash/)
+## 🤔 So..
 
-## 🏳️ I can talk in these languages:
-🇧🇷 - Brazillian Portuguese
-|
-🇺🇸️ - English
+### 👨‍💻 I know
+- 🖥️ Bash/Shell Script
 
-## ⚙️ I am currently working on: 
+### 🛠️ My tools are
+- ⌨️ Visual Studio Code
+
+### 🖥️ 📱 My OSes are
+- 🐧 Ubuntu
+- 🤖 Android
+- 📂 Windows
+
+### 🤔 I have interest in
+- 📱 Android apps development
+
+### 🤔 I am learning
+- Kotlin
+
+### 💬 Want to talk with me?
+- 😁 You can talk with me on [Telegram](https://t.me/AkumaHunt3r)
+
+## ⚡ My projects are / I am working on
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkumaHunt3r&repo=OptimKernel&theme=tokyonight">](https://github.com/AkumaHunt3r/OptimKernel)
 
-## 🤔 I have interest in:
-- Android apps development
-
-## 🛠️ Tools:
-[<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="46">](https://visualstudio.microsoft.com/)
-
-## 💻 Environment:
-[<img src="https://www.vectorlogo.zone/logos/elementaryio/elementaryio-icon.svg" width="46">](https://elementary.io/)
-[<img src="https://www.vectorlogo.zone/logos/android/android-official.svg" width="46">](https://source.android.com/)
-
-## 💬 You can talk with me here: 
-[<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="46">](https://t.me/AkumaHunt3r)
-
-## 📝 Note:
-- Extra info about my repositores can be found [here](https://github.com/AkumaHunt3r/AkumaHunt3r/blob/about-me/repos_info.md)
-
-## 📊️ My stats
+## 📊️ My status are
 ![AkumaHunt3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkumaHunt3r&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkumaHunt3r&layout=compact&theme=tokyonight)
+
+## 📝 Note
+- Extra info about my repositores can be found [here](https://github.com/AkumaHunt3r/AkumaHunt3r/blob/about-me/repos_info.md)
+
+### That's all you need to know about me 😁
+### Feel free to fork, star etc my repos 👍
