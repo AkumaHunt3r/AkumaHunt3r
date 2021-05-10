@@ -35,7 +35,7 @@
 - 🇺🇸 English
 
 ### 💬 Want to talk with me?
-- 😁 You can talk with me on [Telegram](https://t.me/AkumaHunt3r)
+- 😁 You can talk with me on [<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="24">](https://t.me/AkumaHunt3r)
 
 ## 📊️ My status are
 ![AkumaHunt3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkumaHunt3r&show_icons=true&theme=tokyonight)
