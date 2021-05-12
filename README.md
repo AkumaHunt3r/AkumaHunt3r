@@ -1,48 +1,38 @@
 # Hi, i am AkumaHunt3r 👋 😁
 ## I am a beginner developer who likes to watch animes and listen to music 🌸 🎧
 
-## 🤔 So..
+## 👦 About me:
 
-### 👨‍💻 I know
-- 🖥️ Bash/Shell Script
+**Languages that I know:**
 
-### 👨‍💻 I know the basic / pretty basic of
-- 🐍 Python
-- 🖥️ C
+[![Bash](https://img.shields.io/badge/-Bash-grey?style=for-the-badge&logo=gnu-bash)](https://www.gnu.org/software/bash)
 
-### 🛠️ My tools are
-- ⌨️ Visual Studio Code
+**Languages that I am Learning:**
 
-### 🖥️ 📱 My OSes are
-- 🐧 Ubuntu
-- 🤖 Android
-- 📂 Windows
+[![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)](https://www.python.org)
+![C](https://img.shields.io/badge/-C-grey?style=for-the-badge&logo=c)
 
-### 🤔 I have interest in
-- Nothing at the moment 😕
+**Tools that I use:**
 
-### 🤔 I am learning
-- Nothing at the moment 😕
+[![VSCode](https://img.shields.io/badge/-VSCode-blue?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com)
 
-### ⚡ My projects are
-- None at the moment 😐
+**OSes that I use:**
 
-### ⚡I am working on
-- Nothing at the moment 😕
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-grey?style=for-the-badge&logo=ubuntu)](https://ubuntu.com)
+[![Android](https://img.shields.io/badge/-Android-grey?style=for-the-badge&logo=android)](https://android.com)
+[![Windows](https://img.shields.io/badge/-Windows-blue?style=for-the-badge&logo=windows)](https://www.microsoft.com/en-us/windows)
 
-## 🏳️ I can talk in
-- 🇧🇷 Brazillian Portuguese
-- 🇺🇸 English
+**Where talk with me:**
 
-### 💬 Want to talk with me?
-- 😁 You can talk with me on [<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="24">](https://t.me/AkumaHunt3r)
+[![Teleram](https://img.shields.io/badge/-Telegram-grey?style=for-the-badge&logo=telegram)](https://t.me/AkumaHunt3r)
 
-## 📊️ My status are
-![AkumaHunt3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkumaHunt3r&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkumaHunt3r&layout=compact&theme=tokyonight)
+## 🐙 GitHub stats:
 
-## 📝 Note
-- Extra informations of my repositores can be found [here](https://github.com/AkumaHunt3r/AkumaHunt3r/blob/about-me/repos_info.md)
+[![AkumaHunt3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkumaHunt3r&show_icons=true&theme=tokyonight)](https://github.com/AkumaHunt3r)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkumaHunt3r&layout=compact&theme=tokyonight)](https://github.com/AkumaHunt3r)
+![Followers](https://img.shields.io/github/followers/AkumaHunt3r?color=blue&style=for-the-badge)
 
-### That's all you need to know about me 😁
-### Feel free to fork, star etc my repositores 👍
+## 📝 Notes:
+**More informations about my repositores can be found [here](https://github.com/AkumaHunt3r/AkumaHunt3r/blob/about-me/repos_info.md)**
+
+**If you'll DM me on Telegram, please first explain why, otherwise i'll automatically block you 😅**
