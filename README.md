@@ -24,7 +24,7 @@
 
 **Libraries I have experience with:**
 
-[![Pyrogram](https://img.shields.io/badge/-Pyrogram-red?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com)
+[![Pyrogram](https://img.shields.io/badge/-Pyrogram-red?style=for-the-badge)](https://docs.pyrogram.org)
 
 **OSes that I use:**
 
