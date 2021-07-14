@@ -6,15 +6,25 @@
 **Languages that I know:**
 
 [![Bash](https://img.shields.io/badge/-Bash-grey?style=for-the-badge&logo=gnu-bash)](https://www.gnu.org/software/bash)
+[![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)](https://www.python.org)
 
 **Languages that I am Learning:**
 
-[![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)](https://www.python.org)
 ![C](https://img.shields.io/badge/-C-grey?style=for-the-badge&logo=c)
+[![Rust](https://img.shields.io/badge/-Rust-grey?style=for-the-badge&logo=rust)](https://www.rust-lang.org)
+[![GoLang](https://img.shields.io/badge/-Go-grey?style=for-the-badge&logo=go)](https://golang.org)
+[![Nim](https://img.shields.io/badge/-Nim-black?style=for-the-badge&logo=nim)](https://nim-lang.org)
 
 **Tools that I use:**
 
 [![VSCode](https://img.shields.io/badge/-VSCode-blue?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com)
+[![Micro](https://img.shields.io/badge/-Micro-darkblue?style=for-the-badge&logo=micro)](https://micro-editor.github.io)
+[![Termux](https://img.shields.io/badge/-Termux-black?style=for-the-badge)](https://termux.com)
+[![WSL](https://img.shields.io/badge/-WSL-grey?style=for-the-badge&logo=linux)](https://docs.microsoft.com/en-us/windows/wsl/about)
+
+**Libraries I have experience with:**
+
+[![Pyrogram](https://img.shields.io/badge/-Pyrogram-red?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com)
 
 **OSes that I use:**
 
@@ -33,6 +43,4 @@
 ![Followers](https://img.shields.io/github/followers/AkumaHunt3r?color=blue&style=for-the-badge)
 
 ## 📝 Notes:
-**More informations about my repositores can be found [here](https://github.com/AkumaHunt3r/AkumaHunt3r/blob/about-me/repos_info.md)**
-
 **If you'll DM me on Telegram, please first explain why, otherwise i'll automatically block you 😅**
